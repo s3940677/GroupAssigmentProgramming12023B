@@ -1,0 +1,11 @@
+transactionId,transactionDate,clientId,salespersonId,purchasedItems,discount,totalAmount,notes
+t001,2023-01-15,cl001,s001,c001,0.0,5.0E8,New Toyota Corolla purchase
+t002,2023-02-05,cl002,s002,c002,5000000.0,4.75E8,Discounted Honda Civic purchase
+t003,2023-03-10,cl003,s003,c003,1.0E7,6.0E8,Full price Ford Explorer purchase
+t004,2023-03-20,cl004,s001,c004,0.0,3.0E8,New Kia Seltos purchase
+t005,2023-04-10,cl005,s002,c005,2000000.0,4.8E8,Discounted Mazda 3 purchase
+t6,2024-09-15,cl005,u001,c019,0.0,6.0E8,Car purchase
+t7,2024-09-15,cl005,u001,c016,0.0,5.6E8,Car purchase
+t8,2024-09-15,cl004,u002,c012,0.0,7.5E8,Car purchase
+t9,2024-09-15,,u001,c009,0.0,3.8E8,Car sale
+t10,2024-09-16,,u001,c022,0.0,40.0,Car sale

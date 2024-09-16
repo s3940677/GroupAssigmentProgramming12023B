@@ -1,0 +1,25 @@
+serviceId,serviceDate,clientId,mechanicId,serviceType,replacedParts,serviceCost,notes
+s001,2022-05-01,cl001,m001,Oil Change,p001;p002,150000.0,Changed oil and filter
+s002,2022-06-15,cl002,m002,Tire Replacement,p003,80000.0,Replaced two tires
+s003,2022-07-20,cl003,m003,Brake Check,p004;p005,120000.0,Replaced brake pads
+s004,2022-08-02,cl004,m001,Engine Tune-Up,p006,250000.0,Tuned engine for better performance
+s005,2022-09-10,cl005,m004,Battery Replacement,p007,90000.0,Replaced car battery
+s006,2022-10-05,cl006,m002,Suspension Repair,p008;p009,300000.0,Repaired suspension system
+s007,2022-11-22,cl007,m003,Transmission Fix,p010,400000.0,Fixed transmission issues
+s008,2022-12-01,cl008,m004,AC Repair,p011,150000.0,Repaired air conditioning system
+s009,2023-01-11,cl009,m002,Fuel System Cleaning,p012,200000.0,Cleaned fuel system
+s010,2023-02-19,cl010,m001,Headlight Replacement,p013,50000.0,Replaced broken headlight
+s011,2023-03-05,cl011,m003,Oil Change,p001;p002,150000.0,Regular oil change
+s012,2023-04-15,cl012,m001,Tire Rotation,p003,75000.0,Rotated all tires
+s013,2023-05-23,cl013,m004,Brake Fluid Change,p014,60000.0,Changed brake fluid
+s014,2023-06-10,cl014,m002,Timing Belt Replacement,p015,350000.0,Replaced worn timing belt
+s015,2023-07-25,cl015,m003,Exhaust Repair,p016,180000.0,Repaired exhaust system
+s016,2023-08-11,cl016,m001,Air Filter Replacement,p017,50000.0,Replaced air filter
+s017,2023-09-02,cl017,m004,Clutch Repair,p018,400000.0,Fixed clutch system issues
+s018,2023-10-10,cl018,m002,Windshield Repair,p019,90000.0,Repaired small crack in windshield
+s019,2023-11-12,cl019,m003,Starter Motor Repair,p020,220000.0,Fixed starter motor problems
+s020,2023-12-01,cl020,m001,Full Service,p001;p002;p003,550000.0,Comprehensive vehicle check and service
+s021,2024-09-15,cl005,m001,Oil,Change,0.0,0
+s022,2024-09-15,cl005,m001,Oil,p001,500000.0,good
+s023,2024-09-16,cl005,m001,Change,Oil,50000.0,good
+s024,2024-09-16,cl006,m001,Oil,change,50.0,done

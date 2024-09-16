@@ -1,0 +1,34 @@
+partId,partName,manufacturer,partNumber,cost,condition,warranty,notes
+p001,Brake Pads,Toyota,12345,50000.0,new,1 year,Good quality
+p002,Oil Filter,Honda,54321,25000.0,used,6 months,Refurbished part
+p003,Spark Plug,Ford,78901,10000.0,new,2 years,High performance
+p004,Air Filter,Nissan,23456,15000.0,new,1 year,Standard size
+p005,Fuel Pump,Chevrolet,34567,80000.0,refurbished,1 year,Professionally refurbished
+p006,Alternator,Hyundai,45678,95000.0,used,6 months,Tested and functional
+p007,Radiator,Kia,56789,110000.0,new,2 years,Comes with installation kit
+p008,Timing Belt,Mitsubishi,67890,45000.0,new,1 year,Recommended replacement every 60000 miles
+p009,Headlight Assembly,Tesla,78912,120000.0,new,2 years,LED with enhanced brightness
+p010,Windshield Wiper,BMW,89123,8000.0,new,6 months,All-weather blades
+p011,Transmission Fluid,Mercedes-Benz,91234,3000.0,new,1 year,Synthetic blend
+p012,Battery,Volkswagen,12367,75000.0,new,3 years,High capacity
+p013,Brake Rotors,Ford,23478,60000.0,new,2 years,Ventilated for cooling
+p014,Clutch Plate,Subaru,34589,70000.0,refurbished,1 year,Resurfaced to factory specs
+p015,Exhaust Muffler,Audi,45690,85000.0,used,6 months,Slight wear but functional
+p016,Fuel Injector,Mazda,56701,45000.0,new,2 years,Direct fit replacement
+p017,Shock Absorbers,Honda,67812,70000.0,new,1 year,Gas-filled for smooth ride
+p018,Wheel Bearing,Toyota,78923,25000.0,new,1 year,Precision-engineered
+p019,Engine Mount,Chevrolet,89134,55000.0,used,6 months,Tested and in good condition
+p020,Oil Pan,GMC,91245,40000.0,new,1 year,Corrosion resistant
+p021,Steering Rack,Ford,12356,130000.0,refurbished,1 year,Rebuilt with new seals
+p022,Water Pump,Nissan,23467,45000.0,new,1 year,Improved flow rate
+p023,AC Compressor,Kia,34578,95000.0,used,6 months,Still operational
+p024,Drive Shaft,Mitsubishi,45689,80000.0,new,2 years,Balanced for smooth performance
+p025,Fan Belt,Hyundai,56790,20000.0,new,1 year,High durability rubber
+p026,Rearview Mirror,BMW,67801,15000.0,new,6 months,Anti-glare coating
+p027,Turbocharger,Mercedes-Benz,78912,250000.0,refurbished,1 year,Professionally rebuilt
+p028,Oxygen Sensor,Volkswagen,89123,12000.0,new,1 year,Improves fuel efficiency
+p029,Carburetor,Audi,91234,70000.0,used,6 months,Cleaned and tested
+p030,Head Gasket,Ford,12345,50000.0,new,1 year,Prevents oil leakage
+p031,Turbo,Audi,12345,70000.0,new,2,good condition
+p032,Light,Toyota,12345,50.0,new,2,good
+p033,lightt,wew,123,30.0,new,1,q123

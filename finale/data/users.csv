@@ -1,0 +1,5 @@
+userId,fullName,username,password,userType,status
+u001,Alice,alice,12345,Manager,active
+u002,Bob,bob,67890,Salesperson,active
+u003,Charlie,charlie,54321,Mechanic,active
+

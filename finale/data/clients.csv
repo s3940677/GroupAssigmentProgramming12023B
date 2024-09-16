@@ -1,0 +1,6 @@
+userId,fullName,username,password,status,totalSpending,membershipLevel
+cl001,John Doe,johndoe,password123,Active,1.5E8,Gold
+cl002,Jane Smith,janesmith,password456,Active,3.5E8,Platinum
+cl003,Mike Johnson,mikejohnson,password789,Active,5.0E7,Silver
+cl004,Lisa Brown,lisabrown,password321,Active,7.7E8,Platinum
+cl005,Paul Walker,paulwalker,password654,Active,5.7E8,Platinum

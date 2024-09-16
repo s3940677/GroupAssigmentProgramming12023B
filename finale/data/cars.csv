@@ -1,0 +1,23 @@
+carId,make,model,year,mileage,color,price,status,notes
+c001,Toyota,Corolla,2020,10000,White,5.0E8,available,New arrival,null
+c002,Honda,Civic,2019,15000,Black,4.5E8,sold,Great condition,2023-02-15
+c003,Ford,Focus,2021,8000,Blue,4.0E8,available,Low mileage,null
+c004,Chevrolet,Malibu,2018,30000,Red,3.5E8,sold,Used but well-maintained,2023-04-10
+c005,Nissan,Altima,2022,5000,Gray,4.7E8,available,Almost new,null
+c006,BMW,320i,2020,12000,Black,6.0E8,sold,Luxury sedan,2023-06-22
+c007,Audi,A4,2019,25000,White,5.8E8,sold,Luxury car in good condition,2023-07-01
+c008,Mercedes,C-Class,2021,7000,Silver,6.5E8,available,New model,null
+c009,Hyundai,Elantra,2019,18000,Gray,3.8E8,sold,Fuel efficient,2024-09-15
+c010,Kia,Optima,2020,9000,Red,4.2E8,sold,Compact sedan,2023-01-20
+c011,Tesla,Model 3,2021,12000,White,8.0E8,sold,Electric car,2023-03-15
+c012,Mazda,3,2018,40000,Black,3.3E8,available,Well-maintained,null
+c013,Volkswagen,Jetta,2019,22000,Blue,3.9E8,available,Good condition,null
+c014,Subaru,Impreza,2020,14000,Green,4.1E8,sold,Reliable car,2023-05-18
+c015,Jeep,Wrangler,2021,6000,Gray,7.0E8,sold,Off-road capable,2024-09-15
+c016,Ford,Explorer,2019,20000,Silver,5.5E8,sold,Family SUV,2023-08-07
+c017,Chevrolet,Equinox,2020,10000,White,4.6E8,sold,Crossover SUV,2024-09-16
+c018,Honda,CR-V,2021,8000,Black,4.8E8,sold,Compact SUV,2023-09-12
+c019,Toyota,RAV4,2022,4000,Blue,5.2E8,sold,Compact SUV,2024-09-15
+c020,BMW,X5,2020,15000,Silver,8.5E8,inactive,Luxury SUV,2023-10-03
+c021,Toyota,Camry,2024,0,Black,50.0,sold,good ,2024-09-16
+c022,Toyota,Camry,2023,100000,Black,40.0,sold,goood,2024-09-16
